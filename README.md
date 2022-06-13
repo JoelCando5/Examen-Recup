@@ -1,2 +1,2 @@
-# Examen-Recuperaci-
+# Examen-Recup
 Estic fent la part pràctica
